@@ -9,6 +9,7 @@
 
 # production
 /build
+/salida/*.txt
 
 # misc
 .DS_Store
